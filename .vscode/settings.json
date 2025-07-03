@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\sakshath\\anaconda3\\envs\\datascience\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "terminal.integrated.env.windows": {
+        "CONDA_DEFAULT_ENV": "datascience"
+    }
+}
